@@ -71,4 +71,4 @@ Once your EC2 instance is running:
 
 ## Testing the Web Server
 
-Once your files are uploaded and the server is running, open your browser and navigate to the public IP of your EC2 instance. 
+Once files are uploaded and the server is running, open your browser and navigate to the public IP of EC2 instance. 
